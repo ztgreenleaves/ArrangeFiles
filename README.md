@@ -13,5 +13,12 @@
 4.结束<br>
 <br>
 
+<h2>效果</h2>
+之前<br>
+<img src = "https://github.com/ztgreenleaves/ArrangeFiles/blob/master/41%5B8V2UQ%7BVZGZO%60%40U%25BG7EO.png"/>
+之后<br>
+<img src = "https://github.com/ztgreenleaves/ArrangeFiles/blob/master/%5B3_(K~%5B1YCKOI(7NJ3~XWPS.png"/>
+
 <h3>ps：</h3>
-能用就行
+另对美剧或者电影等视频文件名会进行一定的去杂，比如去掉广告字段。<br>
+写着玩的，能用就行
